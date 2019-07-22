@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/matheusasn/Video_Maker/issues"
   },
-  "homepage": "https://github.com/matheusasn/Video_Maker#readme"
+  "homepage": "https://github.com/matheusasn/Video_Maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
