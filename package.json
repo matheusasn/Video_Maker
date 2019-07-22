@@ -1,0 +1,22 @@
+{
+  "name": "video_maker",
+  "version": "1.0.0",
+  "description": "Projeto inicial para programar um criador de vídeos automaticamente.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusasn/Video_Maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusasn/Video_Maker/issues"
+  },
+  "homepage": "https://github.com/matheusasn/Video_Maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
